@@ -1,0 +1,10 @@
+[package]
+name = "snake"
+version = "0.1.0"
+authors = ["Nazarii Bardiuk <nazarii@bardiuk.com>"]
+
+[dependencies]
+rand = "0.4.5"
+piston_window = "0.87.0"
+pistoncore-sdl2_window = "0.53.0"
+
