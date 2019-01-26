@@ -1,0 +1,8 @@
+resolver: lts-13.4
+
+packages:
+- .
+
+nix:
+  enable: true
+  packages: [pkgconfig SDL2 zlib]
